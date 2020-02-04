@@ -8,7 +8,7 @@ storybook/
 storybook-based-tests/
 
 # Publishing and dist build
-.tmp*
+#.tmp*
 
 # For build server. A copy of itself from master is pulled down in order to publish itself.
 design-system-react
